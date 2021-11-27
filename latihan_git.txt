@@ -5,8 +5,9 @@ ini masternya :
 3)syta
 
 
-=======
-hasil pull dari master
+
+
+
 1)a
 2)b
 3)c
