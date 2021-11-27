@@ -1,7 +1,2 @@
-
-ini nanti di pull req ke main dari cabang 2
-ini di pull req ya, bkn di merge
-A
-ini dari main. edit lsung di web (remote)
-tambahan edit web
-(semuanya ditambahkan. tdk ada yang dikurangi)
+B
+add cb2
