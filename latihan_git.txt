@@ -6,3 +6,4 @@ ini masternya :
 
 tambahan dari masternya
 1)a
+2)harus di commit
