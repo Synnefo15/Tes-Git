@@ -4,5 +4,8 @@ ini masternya :
 2)gilang
 3)syta
 
-tambahan cabang1
-1)cahya
+
+=======
+hasil pull dari master
+1)a
+>>>>>>> 340c7a2fdacc9d0d4bcc04517819e17abc8ba0b2
