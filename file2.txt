@@ -1,3 +1,4 @@
 ini dibuat di rafi
 fitur: 
 A
+B
