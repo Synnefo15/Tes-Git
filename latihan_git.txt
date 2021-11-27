@@ -6,4 +6,7 @@ ini masternya :
 
 tambahan dari masternya
 1)a
+<<<<<<< HEAD
 2)harus di commit
+=======
+
