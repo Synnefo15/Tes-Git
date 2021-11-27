@@ -1,2 +1,7 @@
 B
 add cb2
+ini fitur 1
+2
+3
+4
+5
