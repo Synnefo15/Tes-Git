@@ -4,9 +4,11 @@ ini masternya :
 2)gilang
 3)syta
 
-tambahan dari masternya
+
+
+
+
 1)a
-<<<<<<< HEAD
-2)harus di commit
-=======
+2)b
+3)c
 
