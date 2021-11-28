@@ -12,3 +12,6 @@ ini masternya :
 2)b
 3)c
 
+update fitur 
+membuat fitur A, B, C
+
