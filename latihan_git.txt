@@ -1,17 +1,1 @@
-ini masternya :
-
-1)rafi
-2)gilang
-3)syta
-
-
-
-
-
-1)f1
-2)f2
-3)f3
-
-update fitur 
-membuat fitur A, B, C
-
+ini file terbaru yang akan dimasukkan ke main
