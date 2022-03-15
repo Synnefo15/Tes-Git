@@ -1,1 +1,2 @@
 ini file ditulis 1st acc di lokal
+ini ditulis 1st acc di web
